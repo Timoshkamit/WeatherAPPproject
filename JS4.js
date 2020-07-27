@@ -18,7 +18,7 @@ function provweather(){
             pic = "img/winter.png";
         break;
         case "Thunderstorm":
-            pic = "img/strom.png";
+            pic = "img/storm.png";
         break;
         case "Clear":
             pic = "img/sun.png";
