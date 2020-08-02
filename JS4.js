@@ -27,7 +27,7 @@ function provweather(){
             pic = "img/cloud.png";
         break;
         default:
-            pic = "frog.png";
+            pic = "img/frog.png";
         break;
 
     }
